@@ -13,7 +13,7 @@ Proyecto Integrador - ISPC 2024 - Grupo N°8
 
 - ### Gutiérrez Laura
 
-- ### Hilgemberg Maria Sol
+- ### Pineda Mariano
 
 - ### Ruani Julio
 
