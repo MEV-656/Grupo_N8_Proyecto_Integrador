@@ -9,6 +9,8 @@ Proyecto Integrador - ISPC 2024 - Grupo N°8
 
 ## Integrantes del equipo (orden alfabético):
 
+- ### Galdames Walter
+
 - ### Gutiérrez Diego
 
 - ### Gutiérrez Laura
@@ -20,8 +22,6 @@ Proyecto Integrador - ISPC 2024 - Grupo N°8
 - ### Sánchez Jorge ignacio
 
 - ### Valdiviezo Melisa
-  
-- ### Vilaseca Mercedes
 
 #######################################################################################
 
